@@ -1,6 +1,6 @@
 **Passo 1:** Acesse o Portal de Compras do Governo Federal e clique em “Acesso ao Sistema”.
 
-<img src="imagens/01-Acesso-ao-sistema.png" alt="adicionar descrição de imagem" style="width: 100%; display: block; margin: 0 auto;">
+![adicionar descrição de imagem](imagens/01-Acesso-ao-sistema.png)
 
 ---
 
