@@ -1,5 +1,4 @@
 site_name: Manual Compras.gov.br - Pregão Eletrônico
-docs_dir: '.'
 
 theme:
   name: readthedocs
