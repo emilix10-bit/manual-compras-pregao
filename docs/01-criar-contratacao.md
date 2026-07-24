@@ -13,7 +13,7 @@ Nesta primeira etapa, abordamos o passo a passo para acessar o sistema e iniciar
 
 **Passo 2:** Escolha o perfil Governo e clique em “Entrar com Gov.br”.
 
-![Tela 02](02%20-%20Login.png)
+<img src="imagens/02 - Login.png" alt="adicionar descrição de imagem" style="width: 100%; display: block; margin: 0 auto;">
 
 ---
 
