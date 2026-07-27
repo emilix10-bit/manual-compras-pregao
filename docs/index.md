@@ -1,34 +1,29 @@
-<div style="text-align: left; margin: 15px 0;">
+<div style="text-align: right; margin: 10px 0;">
   <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
     🖨️ Imprimir esta página
   </button>
 </div>
 
-# Manual do Sistema Compras.gov.br
+# Manual Compras.gov.br - Pregão Eletrônico
 
-## Pregão Eletrônico - Lei nº 13.303/2016
+Agora, empresas estatais podem realizar pregões eletrônicos ou presenciais fundamentados na Lei nº 13.303/2016 pelo Novo Divulgação de Compras (Novo DC), disponível no sistema Compras.gov.br.  
 
-Bem-vindo ao manual de orientação para Agentes de Contratação!
+Os pregões das empresas estatais poderão ser realizados em processos previstos no Planejamento e Gerenciamento de Contratações (PGC) ou em novo processo de compra.  
 
-Agora, empresas estatais podem realizar pregões eletrônicos ou presenciais fundamentados na Lei nº 13.303/2016 pelo Novo Divulgação de Compras (Novo DC), disponível no sistema Compras.gov.br.
+Neste tutorial, abordamos o passo a passo para publicação de um pregão eletrônico no Novo Divulgação de Compras (Novo DC) partindo de um novo processo. Se a contratação já estiver prevista no Planejamento e Gerenciamento das Contratações (PGC), [clique aqui](02-divulgar-contratacao.md) e vá direto para a segunda etapa deste tutorial.  
 
-Neste tutorial, abordamos o passo a passo completo para a publicação de um pregão eletrônico no Novo Divulgação de Compras partindo de um novo processo ou do PGC.
+> **OBS.:** Contratações no Sistema de Registro de Preços estão no manual CONTRATAÇÕES SRP.
+
+---
 
 ## Formatos de Visualização
 
-Disponibilizamos este manual em diferentes formatos:
+Para garantir a melhor experiência de consulta e atender às diferentes necessidades de leitura, disponibilizamos a documentação em múltiplos formatos de acesso, quais sejam:
 
 * [Padrão - formato html com paginação](./)
 * [Página única - formato html em página única (impressão)](versao-impressao.md)
 
-<br>
----
-
-> Use o menu lateral para navegar entre os capítulos do manual.
-
-<br>
-<br>
-<div style="text-align: left; margin: 15px 0;">
+<div style="text-align: right; margin: 20px 0;">
   <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
     🖨️ Imprimir esta página
   </button>
