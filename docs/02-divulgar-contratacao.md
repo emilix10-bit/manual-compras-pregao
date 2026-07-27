@@ -77,3 +77,9 @@ Detalhe os fundamentos legais disponíveis e, quando localizar a opção adequad
 **Passos 15 e 16:** Na aba **Dados adicionais da contratação**, preencha os dados do empenho para a publicação no DOU, bem como as datas de início e fim de recebimento de propostas.
 
 ![Tela 16](Imagens/16-dados-adicionais-da-contratacao.png)
+
+
+<br>
+<button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+  🖨️ Imprimir esta página
+</button>
