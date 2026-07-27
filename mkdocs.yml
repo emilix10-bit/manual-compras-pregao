@@ -9,3 +9,6 @@ nav:
   - '2. Divulgar a Contratação': 02-divulgar-contratacao.md
   - '3. Inclusão de Itens e Benefícios': 03-inclusao-itens.md
   - '4. Grupos, Anexos e Publicação': 04-grupos-anexos-responsaveis.md
+
+extra_css:
+  - custom.css
