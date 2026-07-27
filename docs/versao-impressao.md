@@ -1,9 +1,8 @@
-# 🖨️ Manual Completo (Versão para Impressão)
-
-<br>
-<button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-  🖨️ Imprimir o Manual Completo
-</button>
+<div style="text-align: left; margin: 15px 0;">
+  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+    🖨️ Imprimir esta página
+  </button>
+</div>
 
 # Manual do Sistema Compras.gov.br
 
@@ -255,8 +254,10 @@ Nesta última etapa, veremos como agrupar itens, anexar o edital e documentos ob
 
 Pronto! Sua contratação será divulgada no **PNCP** e ficará disponível para recebimento de propostas conforme as datas cadastradas.
 
-
 <br>
-<button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-  🖨️ Imprimir esta página
-</button>
+<br>
+<div style="text-align: left; margin: 15px 0;">
+  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+    🖨️ Imprimir esta página
+  </button>
+</div>
