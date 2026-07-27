@@ -12,7 +12,7 @@
 
 **Passo 3:** Na área de trabalho do usuário Governo, clique em “Novo Divulgação de Compras”.
 
-![adicionar descrição de imagem](Imagens/03-Acesso-ao-Novo-DC.png)
+![adicionar descrição de imagem](Imagens/03-Aesso-ao-Novo-DC.png)
 
 ---
 
