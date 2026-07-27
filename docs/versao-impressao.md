@@ -16,13 +16,6 @@ Neste tutorial, abordamos o passo a passo para publicação de um pregão eletr�
 
 ---
 
-## Formatos de Visualização
-
-Para garantir a melhor experiência de consulta e atender às diferentes necessidades de leitura, disponibilizamos a documentação em múltiplos formatos de acesso, quais sejam:
-
-* [Padrão - formato html com paginação](./)
-* [Página única - formato html em página única (impressão)](versao-impressao.md)
-
 # Primeira Etapa: Criar a contratação
 
 Nesta etapa, preencheremos os dados básicos, o fundamento legal e as informações essenciais para a publicação do certame.
