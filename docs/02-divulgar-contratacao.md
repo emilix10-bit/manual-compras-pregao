@@ -4,7 +4,7 @@
   </button>
 </div>
 
-# Segunda Etapa: Divulgar a Contratação
+# Segunda Etapa: Divulgar a contratação
 
 Nesta etapa, preencheremos os dados básicos, o fundamento legal e as informações essenciais para a publicação do certame.
 
