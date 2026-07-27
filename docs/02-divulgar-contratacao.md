@@ -90,6 +90,9 @@ Os modos de disputa exibidos em tela variam de acordo com a modalidade da licita
 
 ![Tela 16](Imagens/16-Dados-adicionais-da-contratacao.png)
 
+**Passo 17:** Por fim, caso o órgão ou entidade tenha processo eletrônico, preencha os dados de endereço do processo eletrônico referente a contratação e o Tipo de recurso, que poderá ser “Internacional”, “Federal”, “Distrital”, “Estadual” ou “Municipal”.
+
+![Dados adicionais da contratação - Processo eletrônico e Tipo de recurso](Imagens/17-Dados-adicionais-da-contratacao.png)
 
 <br>
 <br>
