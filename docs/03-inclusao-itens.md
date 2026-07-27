@@ -30,7 +30,7 @@ Existem duas formas de incluir itens na sua contratação: diretamente pelo **Ca
 
 ---
 
-**Passo 22 e 23:** Após inserir os itens, clique no carrinho no canto superior direito e confirme a inclusão.
+**Passos 22 e 23:** Após inserir os itens, clique no carrinho no canto superior direito e confirme a inclusão.
 
 ![Tela 23 e 24](Imagens/23-Inclusao-de-itens-Catalogo.png)
 
@@ -46,7 +46,7 @@ Existem duas formas de incluir itens na sua contratação: diretamente pelo **Ca
 
 ---
 
-**Passo 25 e 26:** Faça o download da planilha modelo, preencha-a, selecione o arquivo e clique em **Confirmar**.
+**Passos 25 e 26:** Faça o download da planilha modelo, preencha-a, selecione o arquivo e clique em **Confirmar**.
 
 ![Tela 29](Imagens/29-Inclusao-de-itens-Planilha.png)
 
@@ -54,13 +54,13 @@ Existem duas formas de incluir itens na sua contratação: diretamente pelo **Ca
 
 ## Configuração Detalhada dos Itens e Locais de Entrega
 
-**Passo 28 a 31:** Clique em **Expandir** no item para definir o Critério de Julgamento, Variação de Lances e Intervalo Mínimo.
+**Passos 28 a 31:** Clique em **Expandir** no item para definir o Critério de Julgamento, Variação de Lances e Intervalo Mínimo.
 
 ![Tela 34](Imagens/34-Configuracao-de-item.png)
 
 ---
 
-**Passo 32 a 36:** Em **Locais de Entrega**, adicione os endereços e as quantidades para cada local correspondente.
+**Passos 32 a 36:** Em **Locais de Entrega**, adicione os endereços e as quantidades para cada local correspondente.
 
 ![Tela 39](Imagens/39-Configuracao-de-item.png)
 
