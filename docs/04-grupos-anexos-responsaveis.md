@@ -1,55 +1,125 @@
-<div style="text-align: right; margin: 15px 0;">
+<div style="text-align: right; margin: 10px 0;">
   <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
     🖨️ Imprimir esta página
   </button>
 </div>
-# Quarta Etapa: Grupos, Anexos e Publicação
 
-Nesta última etapa, veremos como agrupar itens, anexar o edital e documentos obrigatórios, indicar os servidores responsáveis e divulgar a licitação.
+# Quarta Etapa: Grupos, Anexos, Responsáveis e Publicação
 
 ---
 
 ## Formação de Grupos de Itens
 
-**Passos 38 a 42:** Na aba **Itens/Grupos**, selecione os itens desejados, clique em **Criar Grupo**, defina o apelido do grupo, o critério de julgamento e os benefícios aplicáveis.
+**Passo 38:** Na aba Itens/Grupos, selecione os itens que deseja agrupar, e clique em “Criar Grupo”.
 
-![Tela 47](Imagens/47-Acoes-em-lote-grupo.png)
+![Criar grupo de itens](Imagens/47-Acoes-em-lote-grupo.png)
+
+**Passo 39:** Dê um Apelido para o grupo.
+
+![Apelido para o grupo](Imagens/48-Acoes-em-lote-grupo.png)
+
+**Passo 40:** Selecione o critério de julgamento e clique em “Confirmar”.
+
+![Critério de julgamento do grupo](Imagens/49-Acoes-em-lote-grupo.png)
+
+**Passo 41:** Atribua os benefícios ao grupo e salve.
+
+![Atribuir benefícios ao grupo - Parte 1](Imagens/50-Acoes-em-lote-grupo.png)
+![Atribuir benefícios ao grupo - Parte 2](Imagens/51-Acoes-em-lote-grupo.png)
+
+**Passo 42:** Finalize a configuração dos itens do grupo e clique em “Salvar”.
+
+![Configuração final do grupo](Imagens/52-Acoes-em-lote-grupo-Configuracao-final.png)
 
 ---
 
 ## Inclusão de Anexos e Artefatos Vinculados
 
-**Passos 43 a 48:** Na aba **Anexos**, clique em **+Vincular** para adicionar artefatos digitais da contratação ou em **+Anexar** para juntar documentos complementares do seu computador.
+![Aba Anexos](Imagens/53-Anexos.png)
 
-![Tela 54](Imagens/54-Anexos.png)
+**Passo 43:** Na aba Anexos, podem ser vinculados artefatos digitais da contratação ou documentos complementares. Para vincular os artefatos, clique em “+Vincular”.
 
-> **Atenção!** É obrigatório anexar, no mínimo, o **Edital** da contratação para prosseguir.
+![Vincular artefatos digitais](Imagens/54-Anexos.png)
+
+**Passo 44:** Selecione o tipo de artefato para pesquisa.
+
+![Pesquisa de tipo de artefato](Imagens/55-Anexos.png)
+
+**Passo 45:** Selecione o documento e clique em “Vincular”.
+
+![Selecionar documento e vincular](Imagens/56-Anexos.png)
+
+![Artefatos vinculados](Imagens/57-Anexos.png)
+
+**Passo 46:** Para anexar outros documentos, clique em “+Anexar”.
+
+![Anexar outros documentos](Imagens/58-Anexos.png)
+
+**Passo 47:** Selecione o tipo de anexo para pesquisa.
+
+![Pesquisa de tipo de anexo](Imagens/59-Anexos.png)
+
+**Passo 48:** Selecione o arquivo e clique em “Anexar”.
+
+![Selecionar arquivo e anexar](Imagens/60-Anexos.png)
+
+![Documentos anexados](Imagens/61-Anexos.png)
+
+> **Atenção!!** É necessário juntar, no mínimo, o edital aos arquivos anexos.
 
 ---
 
-## Inclusão de Responsáveis e Divulgação
+## Inclusão de Responsáveis
 
-**Passos 49 e 50:** Na aba **Responsáveis**, clique em **+Adicionar** e informe o CPF, e-mail e Cargo/Função de cada responsável.
+![Aba Responsáveis](Imagens/62-Responsaveis.png)
 
-![Tela 63](Imagens/63-Responsaveis.png)
+**Passo 49:** Na aba Responsáveis devem ser incluídas informações dos responsáveis. Para isso, clique em “+Adicionar”.
 
-> **IMPORTANTE:**
-> * É necessário indicar um servidor como responsável pela publicação na Imprensa Nacional (cadastrado previamente para essa função).
-> * **Pregão:** cadastrar ao menos o Pregoeiro.
-> * **Concorrência e Concurso:** cadastrar o Agente de Contratação ou membro da Comissão.
+![Adicionar responsável](Imagens/63-Responsaveis.png)
+
+**Passo 50:** Insira o CPF e o e-mail do responsável, selecione seu Cargo/Função e clique em “Adicionar”.
+
+![Dados do responsável](Imagens/64-Responsaveis.png)
+
+> **IMPORTANTE:** É necessário indicar, entre os responsáveis, um servidor como responsável pela publicação na Imprensa Nacional que deverá ser cadastrado com a Imprensa Nacional para essa função.
+
+> **Atenção!** Devem ser inseridos, no mínimo, os responsáveis:
+> * **Pregão** - Pregoeiro  
+> * **Concorrência e Concurso** - Agente de contratação ou membro de comissão de contratação  
 
 ---
 
-**Passos 51 a 53:** Clique em **Concluir**, visualize a prévia da matéria do Diário Oficial da União e, na tela de resumo, clique em **Divulgar a contratação**.
+## Divulgação da Contratação
 
-![Tela 68](Imagens/68-Divulgacao.png)
+**Passo 51:** Depois de preencher essas informações, clique em “Concluir” para que a contratação seja encaminhada para publicação.
 
-Pronto! Sua contratação será divulgada no **PNCP** e ficará disponível para recebimento de propostas conforme as datas cadastradas.
+![Encaminhar para publicação](Imagens/65-Divulgacao.png)
 
+**Passo 52:** Para visualizar a prévia da matéria do Diário Oficial da União, clique em “Visualizar prévia”.
 
-<br>
-<br>
-<div style="text-align: right; margin: 15px 0;">
+![Visualizar prévia da matéria](Imagens/66-Divulgacao.png)
+
+Verifique os dados apresentados.
+
+![Conferência dos dados da prévia](Imagens/67-Divulgacao.png)
+
+**Passo 53:** Na página de Resumo da Contratação clique em “Divulgar a contratação”.
+
+![Divulgar a contratação](Imagens/68-Divulgacao.png)
+
+A contratação será divulgada no PNCP.
+
+![Contratação divulgada no PNCP](Imagens/69-Divulgacao.png)
+
+Para visualizá-la, vá para a tela inicial do Novo Divulgação de Compras, escolha a aba “Contratações em Andamento” e clique no número da contratação.
+
+![Contratações em andamento](Imagens/70-Contratacoes-em-andamento.png)
+
+Sua contratação poderá receber propostas conforme as datas especificadas na aba Dados básicos da contratação.
+
+Após a data final, será aberta a etapa de lances. Para acompanhamento desta etapa, acesse o manual de sala de disputa.
+
+<div style="text-align: right; margin: 20px 0;">
   <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
     🖨️ Imprimir esta página
   </button>
