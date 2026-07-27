@@ -12,8 +12,8 @@ Neste tutorial, abordamos o passo a passo completo para a publicação de um pre
 
 Disponibilizamos este manual em diferentes formatos:
 
-* [Padrão - formato html com várias páginas](./)
-* [Página única - formato html em página única (impressão)](print_page/)
+* [Padrão - formato html com paginação](./)
+* [Página única - formato html em página única (impressão)](versao-impressao.md)
 
 <br>
 ---
