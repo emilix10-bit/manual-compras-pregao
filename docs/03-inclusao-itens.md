@@ -1,3 +1,9 @@
+<div style="text-align: left; margin: 15px 0;">
+  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+    🖨️ Imprimir esta página
+  </button>
+</div>
+
 # Terceira Etapa: Inclusão e Configuração de Itens
 
 Existem duas formas de incluir itens na sua contratação: diretamente pelo **Catálogo integrado** ou por meio do upload de uma **Planilha Eletrônica**.
