@@ -16,15 +16,15 @@ Nesta etapa, preencheremos os dados básicos, o fundamento legal e as informaç�
 
 ![Tela 06](Imagens/06-Editar-contratacao.png)
 
-> **OBS.:** O número de controle interno da UASG tem por objetivo permitir que cada órgão tenha seu controle de processos registrado no sistema para melhor rastreabilidade. O preenchimento desse número é facultativo.
->
-> **Atenção!** Neste manual, faremos o passo a passo de uma concorrência, mas as demais modalidades seguem os mesmos passos.
-
 ---
 
 **Passo 7:** Na aba **Dados Básicos da Contratação**, preencha o número do processo, o número de controle interno da UASG e, no **Tipo de contratação**, escolha a modalidade de licitação.
 
 ![Tela 07](Imagens/07-Modalidade.png)
+
+> **OBS.:** O número de controle interno da UASG tem por objetivo permitir que cada órgão tenha seu controle de processos, registrado no sistema para melhor rastreabilidade. O preenchimento desse número é opcional.
+>
+> **Atenção!** Neste manual, faremos o passo a passo de uma concorrência, mas as demais modalidades seguem os mesmos passos.
 
 ---
 
@@ -46,6 +46,8 @@ Detalhe os fundamentos legais disponíveis e, quando localizar a opção adequad
 
 ![Tela 11](Imagens/11-modo-de-disputa.png)
 
+Os modos de disputa exibidos em tela variam de acordo com a modalidade da licitação. 
+
 ---
 
 **Passo 10:** Em **Critério de julgamento**, o sistema trará a opção padrão (*default*) “Menor preço/maior desconto” por se tratar de pregão.
@@ -57,12 +59,12 @@ Detalhe os fundamentos legais disponíveis e, quando localizar a opção adequad
 ![Tela 12](Imagens/12-forma-de-realizacao.png)
 
 > **Observação:**
-> * A opção **Eletrônico** encaminhará seu processo para a sala de disputa virtual.
-> * A opção **Presencial** resultará na realização de sessão pública presencial.
+> * A opção **Eletrônico** encaminhará seu processo para a sala de disputa virtual, onde fornecedores interessados se conectarão ao seu processo de forma virtual.
+> * A opção **Presencial** resultará na realização de sessão pública presencial e no posterior registro de resultados.
 
 ---
 
-**Passo 12:** Selecione o **Tipo de objeto** a ser licitado na lista apresentada no sistema.
+**Passo 12:** Selecione o **Tipo de objeto** a ser licitado na lista apresentada no sistema. Essa opção ajudará o sistema a definir seus prazos mínimos de publicidade.
 
 ![Tela 13](Imagens/13-tipo-de-objeto.png)
 
@@ -74,15 +76,19 @@ Detalhe os fundamentos legais disponíveis e, quando localizar a opção adequad
 
 ---
 
-**Passo 14:** Preencha os campos de **Categoria** e **Moeda da Compra**.
+**Passo 14:** Preencha os campos de **Categoria** e **Moeda da Compra**. As demais informações na tela correspondem às que foram inseridas na criação da contratação e poderão ser editadas caso seja necessário. 
 
 ![Tela 15](Imagens/15-dados-da-contratacao.png)
 
 ---
 
-**Passos 15 e 16:** Na aba **Dados adicionais da contratação**, preencha os dados do empenho para a publicação no DOU, bem como as datas de início e fim de recebimento de propostas.
+**Passo 15:** Na aba Dados adicionais da contratação, preencha os dados do empenho para a publicação no Diário Oficial da União. Se necessário, consulte os dados de seu órgão para o preenchimento correto das informações.
 
-![Tela 16](Imagens/16-dados-adicionais-da-contratacao.png)
+![Dados adicionais da contratação](Imagens/16-dados-adicionais-da-contratacao.png)
+
+**Passo 16:** Preencha as datas importantes do seu certame - Início e fim de recebimento de propostas. Seu certame será iniciado na data e na hora que você digitar no campo “Data fim de recebimento de propostas”.
+
+![Datas importantes do certame](Imagens/16-dados-adicionais-da-contratacao.png)
 
 
 <br>
