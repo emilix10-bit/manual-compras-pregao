@@ -84,11 +84,11 @@ Os modos de disputa exibidos em tela variam de acordo com a modalidade da licita
 
 **Passo 15:** Na aba Dados adicionais da contratação, preencha os dados do empenho para a publicação no Diário Oficial da União. Se necessário, consulte os dados de seu órgão para o preenchimento correto das informações.
 
-![Tela 16](Imagens/16-dados-adicionais-da-contratacao.png)
+![Tela 16](Imagens/16-Dados-adicionais-da-contratacao.png)
 
 **Passo 16:** Preencha as datas importantes do seu certame - Início e fim de recebimento de propostas. Seu certame será iniciado na data e na hora que você digitar no campo “Data fim de recebimento de propostas”.
 
-![Tela 16](Imagens/16-dados-adicionais-da-contratacao.png)
+![Tela 16](Imagens/16-Dados-adicionais-da-contratacao.png)
 
 
 <br>
